@@ -1,0 +1,19 @@
+body {
+  text-align: center;
+  background-color: #ffffff;
+  font-family: Arial, Helvetica, sans-serif;
+}
+#testClass {
+  text-align: center;
+  background-color: #555555;
+  font-size: 20px;
+  border-radius: 5px;
+  width: 200px;
+  height: 100px;
+}
+
+.onHover{
+  cursor: pointer;
+  outline-color: #FF0000;
+  background-color: #ffff00;
+}
