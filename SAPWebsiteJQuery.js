@@ -26,7 +26,6 @@ $(document).ready(function(){
       url: "SAPWebsitePostedStories.txt",
       dataType: "text",
       success: function(data){
-        alert("Testing");
         $("#CoolStories").html(data);
       }
     });
