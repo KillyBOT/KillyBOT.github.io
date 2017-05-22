@@ -1,0 +1,107 @@
+#title {
+    text-align: center;
+    font-size: 18px;
+    background-color: #fafafa;
+    border-radius: 10px;
+    border-color: #000000;
+    border-width: 5px;
+    border-style: solid;
+    width: 300px;
+    margin: auto;
+    margin-bottom: 10px;
+}
+
+#MenuPage {
+    margin: auto;
+    /*width: 100%;*/
+}
+
+#MenuPage ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #999999;
+}
+
+#MenuPage ul li{
+  float: left;
+  border-left: 2px solid black;
+  padding: 15px 15px 10px 10px;
+}
+
+#MenuPage ul li a {
+  display: block;
+  color: black;
+  text-align: center;
+  text-decoration: none;
+}
+
+#MenuPage a:hover{
+  background-color: #111111;
+}
+
+#MenuPage a:link {
+  color: #000000;
+  text-decoration: none;
+}
+#MenuPage a:visited{
+  color:#000000;
+  text-decoration: none;
+}
+
+#WelcomePage {
+    width: 600px;
+}
+
+.MainPages {
+    font-size: 20px;
+    font-family: monospace, monospace;
+    font-style: bold;
+    background-color: #fafafa;
+    border-width: 1px;
+    border-radius: 5px;
+    border-color: #000000;
+    border-style: solid;
+    margin: auto;
+    padding: 5px 5px 5px 5px;
+}
+
+.onHover {
+    background-color: #ffffff;
+    border-radius: 15px;
+}
+
+.picture {
+  width:60%;
+  height:60%;
+}
+
+#MenuPageIframe {
+  margin: auto;
+  overflow: hidden;
+  position: relative;
+  width: 100%
+}
+
+#MenuPageIframe iframe {
+  width: 100%;
+  border: none;
+  display: block;
+  margin: 0 auto;
+}
+
+#BooksToRead aside{
+  float:right;
+}
+
+#BooksToRead nav{
+  float: left;
+  max-width: 190px;
+}
+
+#BooksToRead article{
+  margin-left: 200px;
+  padding-left: 20px;
+  border-left: 5px solid black;
+}
