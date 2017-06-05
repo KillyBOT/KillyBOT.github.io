@@ -7,6 +7,7 @@
 
   -Kyle
 </div>
+
 <div class='MainPages'>
   <h3>
     Patricia J. Culligan
@@ -15,7 +16,7 @@
 
     Columbia University
   </h3>
-  <h4>
+  <p>
     One of the coolest thing about Science is the Scientific Method itself. The Scientific Method
     means that that everything we do as scientists is reproducible. So somebody in a laboratory
     across the World can reproduce the same experiments that I conduct in my laboratory at
@@ -26,6 +27,5 @@
     conclusions of my science are valid before I can publish my work in a reputable venue. The
     Scientific Method is in place to ensure that Science is trustworthy. If only we had a similar
     method in place for News!
-  </h4>
-
+  </p>
 </div>
