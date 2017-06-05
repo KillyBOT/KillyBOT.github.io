@@ -1,7 +1,31 @@
-<h4> Preview to the first story: Newton Vs. Hooke </h4>
+<div class='MainPages'>
+  <h4> Preview to the first story: Newton Vs. Hooke </h4>
 
-<p>This will be where the first story will go. It will be about Newton and Hooke's rivalry.
-You will see two geniuses battle for an incredible discovery: how the planets move
-in the way they do. There will be fighting, egos clashing and genius. Stay tuned!</p>
+  <p>This will be where the first story will go. It will be about Newton and Hooke's rivalry.
+  You will see two geniuses battle for an incredible discovery: how the planets move
+  in the way they do. There will be fighting, egos clashing and genius. Stay tuned!</p>
 
--Kyle
+  -Kyle
+</div>
+<div class='MainPages'>
+  <h3>
+    Patricia J. Culligan
+
+    Robert A.W. and Christine S. Carleton Professor of Civil Engineering
+
+    Columbia University
+  </h3>
+  <h4>
+    One of the coolest thing about Science is the Scientific Method itself. The Scientific Method
+    means that that everything we do as scientists is reproducible. So somebody in a laboratory
+    across the World can reproduce the same experiments that I conduct in my laboratory at
+    Columbia University. The Scientific Method also means that our results are repeatable, and not
+    random, unreliable or simply made up. So when I, or others, re-do experiments the same
+    results are produced. Finally, the Scientific Method means that scientific outcomes or
+    conclusions have been peer reviewed. So other scientists have to agree that the outcomes or
+    conclusions of my science are valid before I can publish my work in a reputable venue. The
+    Scientific Method is in place to ensure that Science is trustworthy. If only we had a similar
+    method in place for News!
+  </h4>
+
+</div>
